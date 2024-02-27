@@ -2,7 +2,7 @@
     "canisters": {
         "internet_computer_kyleGallego": {
             "frontend": {
-                "entrypoint": "src/index.html"
+                "entrypoint": "index.html"
             },
             "source": ["src"],
             "type": "assets"
